@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nix71777-web.github.io/lightkeeper-worldwide-reader/sitemap.xml
